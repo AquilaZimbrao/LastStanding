@@ -16,7 +16,7 @@ public class Chase : MonoBehaviour {
 		if(Vector3.Distance(player.position, this.transform.position) < 30  && angle < 40){
 
 			direction.y = 0;
-			this.transform.rotation = Quaternion.Slerp(this.transform.rotation, Quaternion.LookRotation(direction), 0.1f);
+			this.transform.rotation = Quaternion.Slerp(this.transform.rotation, Quaternion.LookRotation(direction), 0.05f);
 
 			anim.SetBool("isIdle", false);
 
