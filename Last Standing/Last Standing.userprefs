@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Chase.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Chase1.cs">
     <Files>
-      <File FileName="Assets\Chase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Chase2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Chase1.cs" Line="6" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
